@@ -1,0 +1,8 @@
+name    'xaeth-debug'
+version '0.1.0'
+source 'UNKNOWN'
+author 'xaeth'
+license 'Apache License, Version 2.0'
+summary 'Easy global variable for debugging on at a single agent level'
+description 'Easy global variable for debugging on at a single agent level'
+project_page 'https://github.com/gregswift/puppet-debug'
